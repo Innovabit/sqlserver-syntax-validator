@@ -1,0 +1,1 @@
+# sqlserver-syntax-validator
